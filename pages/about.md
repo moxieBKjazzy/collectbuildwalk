@@ -9,7 +9,7 @@ credits: false
 ---
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-The markdown on this page <br> is truly incredible. And I know it, because I sayit! <br> 
+ <br> is truly incredible. And I know it, because I sayit! <br> 
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
