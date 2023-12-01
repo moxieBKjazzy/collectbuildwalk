@@ -9,17 +9,16 @@ credits: false
 ---
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
- <br> is truly incredible. And I know it, because I sayit! <br> 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" %}
+**THIS IS A TEST OF THE EMERGENCY BROADCAST SYSTEM** <br> _This is only a test!_ <br> 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="25" alt="Frank B. Robinson at the Organ" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a [link test](http://digital.lib.iastate.edu/)
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
